@@ -6,22 +6,28 @@
 
 ### Description
 
-Redesigning LHTP page
+Redesign learnhowtoprogram.com in Sketch to be more functional and appealing
 
 ### Images
 
 Mobile Original Sketches:
-![](pics/initial-sketch.jpg)
-![](pics/initial-sketch3.jpg)
-![](pics/initial-sketch2.jpg)
+![](pics/rough-sketch1.jpg)
 
-#### Desktop Version
+![](pics/rough-sketch2.jpg)
 
-![]()
+Desktop Original Sketches:
+![](pics/rough-sketch3.jpg)
+
 
 #### Mobile Version
 
-![mobile user interface](link-to-screenshot-here)
+![mobile user interface](pics/mobile-homepage.png)
+
+![mobile user interface](pics/mobile-content.png)
+
+#### Desktop Version
+
+![](pics/desktop-homepage.png)
 
 ### User Stories
 
@@ -29,32 +35,26 @@ Mobile Original Sketches:
 * As a non-Epicodus student/developer, I want easy access to relevant notes and lessons in each track in the form of a navigation bar/menu so that I can switch between references quickly.
 * Other target audiences: parents, Epicodus teachers/admin, other coding bootcamp students/admins
 
+## Usability Research and Feedback
+
+* Need home icon to go back to homepage
+* Make hit boxes bigger
+* Add back button links to make wireframe cleaner
+
 ### Technologies and Resources
 
-* HTML
-* CSS
-* Sass
 * Sketch
 
-### Responsiveness
-
-Describe how the site is responsive, and what different 'versions' this project includes (does it have a mobile version? tablet version? )
 
 ### Setup Instructions
 
-Describe how someone can clone and launch this project.
+* Download/Clone this repository: https://github.com/neliaterrazas/lhtp-makeover.git.
+* Open up in Sketch.
 
-### Roadmap
 
-Is there work you plan on continuing doing on this project? Features you'd like to add?
-
-* Consider
-* Listing
-* Them
-* Here
 
 ### License
 
-Determine the license under which this application can be used.
+MIT License
 
-Copyright (c) 2018 **_{ List of Contributors }_**
+Copyright (c) 2018 **_{ Dino Nguyen and Nelia Terrazas }_**
